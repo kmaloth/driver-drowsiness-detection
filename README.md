@@ -48,5 +48,5 @@ Make sure you have **Python 3.7+** installed on your system. You can download it
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourgithubrepo/driver-drowsiness-detection.git
+git clone https://github.com/kmaloth/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
